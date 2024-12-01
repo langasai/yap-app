@@ -4,7 +4,7 @@ import './NavBar.css'; // {{ edit_1 }} - Optional: for styling
 const NavBar: React.FC = () => {
     return (
         <div className="navbar">
-            <h1>My Application Header</h1>
+            <h1>Yap App</h1>
             <nav> {/* {{ edit_2 }} */}
                 <ul>
                     <li><a href="/">Home</a></li>
