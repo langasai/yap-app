@@ -11,7 +11,7 @@
         stroke: #80e080;
       }
 
-      .cls-1, .cls-3, .cls-4 {
+      .cls-3, .cls-4 {
         fill: none;
       }
 
