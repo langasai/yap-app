@@ -25,3 +25,7 @@
     text-decoration: none;
     color: #f9f9f9;
 }
+
+.navbar img {
+    margin-right: 10px; /* Adjusts space between the image and the h1 tag */
+}
