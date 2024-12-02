@@ -27,7 +27,7 @@
     color: #f9f9f9;
 }
 
-.navbar-left {
+.left {
     position: fixed; /* Added to position it relative to the nearest positioned ancestor */
     top: 2%;            /* Added to align it to the top */
     left: 2%;           /* Added to align it to the left */
