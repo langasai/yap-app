@@ -33,6 +33,4 @@
     left: 2%;           /* Added to align it to the left */
     display: flex;
     align-items: center;
-    justify-content: space-between; /* Added to make items side by side */
-    flex-direction: column; /* Set the flex direction to column */
 }
