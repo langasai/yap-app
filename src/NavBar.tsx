@@ -1,9 +1,11 @@
 import React from 'react';
+import logo from './assets/yap.svg'
 import './NavBar.css'; // {{ edit_1 }} - Optional: for styling
 
 const NavBar: React.FC = () => {
     return (
         <div className="navbar">
+            <img src={logo} alt="logo" style={{ width: '96px', height: '96px' }} />
             <h1>Yap App</h1>
             <nav> {/* {{ edit_2 }} */}
                 <ul>
