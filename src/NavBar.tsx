@@ -5,7 +5,7 @@ import './NavBar.css'; // {{ edit_1 }} - Optional: for styling
 const NavBar: React.FC = () => {
     return (
         <div className="navbar">
-            <div className="navbar-left">   
+            <div className="left">   
                 <img src={logo} alt="logo" style={{ width: '96px', height: '96px' }} />
                 <h1>Yap App</h1>
             </div>
