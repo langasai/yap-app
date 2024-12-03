@@ -14,7 +14,7 @@ const VerticalFeatures = () => (
     />
     <VerticalFeatureRow
       title="Adapt your learning to your life."
-      description="Most learning apps make you jump through countless lessons that do not pertain to you. Let's start learning what you can directly apply to your life right away. Your language. Your choice. Your time."
+      description="Most learning apps make you jump through countless lessons that do not pertain to you. Let's start learning what you can directly apply to your life right away. Your language. Your choice. Your life."
       image="/assets/images/feature2.png"
       imageAlt="Second feature alt text"
       reverse
