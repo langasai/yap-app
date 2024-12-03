@@ -20,7 +20,7 @@ const VerticalFeatures = () => (
       reverse
     />
     <VerticalFeatureRow
-      title="Change the inner voice."
+      title="Change your inner voice."
       description="Don't just learn to translate from your mother tongue like the other language apps make you do. Embrace your different self as you speak a different inner language."
       image="/assets/images/feature3.png"
       imageAlt="Third feature alt text"
