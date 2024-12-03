@@ -9,7 +9,7 @@ function App() {
 
   return (
     <div className="hero">
-      <div className="hero_text" style={{ float: 'left', width: '50%' }}>
+      <div className="hero_text" style={{ float: 'left', width: '50%', textAlign: 'left' }}>
         <h1>Yap App</h1>
         <h3>Tired of pointless drills and endless vocabulary lists? Yap is the solution. We will help you start speaking in no time.</h3>
       </div>
