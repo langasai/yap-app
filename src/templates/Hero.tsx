@@ -22,7 +22,8 @@ const Hero = () => (
         title={
           <>
             Language <span className="text-primary-700">learning</span> that {'\n'}
-            <span className="text-primary-700">learns</span> to fit into your day
+            <span className="text-primary-700">speaks</span> to you and {'\n'}
+            <span className="text-primary-700">listens</span> to you grow
           </>
         }
         description="Learn any language by changing your inner monologue."
